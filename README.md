@@ -5,8 +5,12 @@ This repository contains a set of beginner-friendly Microsoft Foundation Class (
 ## 📂 Contents
 
 - **MFC-CALC** – A simple calculator in MFC window.
+DRIVE: https://drive.google.com/file/d/1Iln_2r60X7HeAyw6ksxlN_EhG-By0nzV/view?usp=sharing
+
 - **SystemMonitor** – Usefull for monitoring the system realtime(Monitors: CPU,MEM,GPU).
+DRIVE: https://drive.google.com/file/d/1G7xhYdXIjefvHqhbrbzop2r__FyJHyjv/view?usp=sharing
 - **DesignApp** – Basic dialog-based application where trying different design features or style implementation.
+DRIVE: https://drive.google.com/file/d/1zwS3rbaW-KGwY7OL_tQg6DSchlKG2saH/view?usp=sharing
 
 ## 🛠️ Requirements
 
